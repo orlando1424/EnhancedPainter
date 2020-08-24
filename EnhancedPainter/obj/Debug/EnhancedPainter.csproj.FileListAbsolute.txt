@@ -1,0 +1,10 @@
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\bin\Debug\EnhancedPainter.exe.config
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\bin\Debug\EnhancedPainter.exe
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\bin\Debug\EnhancedPainter.pdb
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.csprojAssemblyReference.cache
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.PainterForm.resources
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.Properties.Resources.resources
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.csproj.GenerateResource.cache
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.csproj.CoreCompileInputs.cache
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.exe
+E:\C#\Chapter 14\EnhancedPainter\EnhancedPainter\obj\Debug\EnhancedPainter.pdb
